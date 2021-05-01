@@ -1,2 +1,23 @@
+
+1.DOWNLOAD GIT:-
+-------------------
+
+https://git-scm.com/downloads
+
+
+
+
+2..GIT CONFIGURATION:-
+----------------------------------------------------------
   git config --global user.email "sunilkumaruppara@gmail.com"
   git config --global user.name "sunilkumar512"
+
+3.GIT COMMANDS TO LOAD FILES TO REPOSITORY:-
+-----------------------------------------------
+
+i) gitadd <FILE NAME>
+
+ii)git commit -m "COMMIT MESSAGE"
+
+iii)git push origin master (or) git push origin <BRANCH NAME>
+
